@@ -107,6 +107,8 @@ Smoked but not cured
 - 1/4 cup (50 grams) [basic dry cure](basic_dry_cure.md)
 - 1/2 cup (125 grams) brown sugar
 
+---
+
 1. Place pork belly, cure, sugar and any additional seasonings in a Ziploc bag. Seal and shake to distribute ingredients.
 2. Refridgerate the belly for 7 days. Flip the bag every other day to redistribute the cure.
 3. Once firm, remove belly from cure, rinse thouroughly, and pat dry with paper towels. Refridgerate on a rack over a baking sheet for 12-36 hours or until a nice pellicle forms.
