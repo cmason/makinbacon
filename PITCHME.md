@@ -103,15 +103,9 @@ Smoked but not cured
 
 ### Bacon
 
-Basic fresh bacon recipe.
-
-#### Ingredients
-
 - 1 3-5 pound pork belly slab with the skin still on.
 - 1/4 cup (50 grams) [basic dry cure](basic_dry_cure.md)
 - 1/2 cup (125 grams) brown sugar
-
-#### Preparation
 
 1. Place pork belly, cure, sugar and any additional seasonings in a Ziploc bag. Seal and shake to distribute ingredients.
 2. Refridgerate the belly for 7 days. Flip the bag every other day to redistribute the cure.
