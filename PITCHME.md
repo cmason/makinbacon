@@ -72,7 +72,7 @@ Smoked but not cured
 - bake at 400 degrees for 20-25 minutes
 - Transfer cooked bacon to paper towels
 
----
+---?image=assets/stovebacon.jpg
 
 # Stovetop Method
 
